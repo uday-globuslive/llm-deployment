@@ -1,0 +1,4 @@
+- i am a devops engineer and I have basic idea on aws services and azure services. can you provide me full comprehensive documents like md files with detailed explanation on llm models deployment to cloud for aws/azure/gcp and with different use cases, and also monitoring them and cost strategies and other best practicies. please consider me as a complete layman or a complete beginner. As I don't know anything about ML also.
+- can you include a sample use case with deploying a sample moedl on on premise environment also like vmware aria.
+- not just aria, may be on a physiscal machines irrespective whetehr vmware or different vms. May be a separate chapter including each and every step in detail would be nice
+- can we create on onpremise without gpus also? with normal cpus?
